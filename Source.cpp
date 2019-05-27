@@ -34,5 +34,7 @@ int main ()
 	}
 	system("pause");
 	return 0;
+	//test git 1
+	//test git 3000
+	kjhkjhkj
 }
-hkjhkjhkjhkjhkj
